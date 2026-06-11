@@ -1,4 +1,4 @@
-# Reservation-Aware Server Connection Pooling API with Adaptive Auto-Scaling
+# Resource-AutoScaling
 
 ## Overview
 Traditional database connection pooling strategies fail under high concurrency, leading to
